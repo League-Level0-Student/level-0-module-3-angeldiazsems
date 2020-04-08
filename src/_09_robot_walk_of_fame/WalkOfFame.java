@@ -128,10 +128,6 @@ rob.turn(144);
 
 
 
-
-
-
-
 // 3. Set the size of the star to 30.
 
 		/** THE CHALLENGE: **/
