@@ -4,6 +4,8 @@
 
 package _09_robot_walk_of_fame;
 
+import javax.swing.JOptionPane;
+
 import org.jointheleague.graphical.robot.Robot;
 
 public class WalkOfFame {
