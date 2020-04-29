@@ -12,12 +12,18 @@ void draw() {
 for (int i = 0; i < 8; i++) {
      ellipse(500,500,(500-i*65),(500-i*65));
   
-}
+
 
   //Use an if statement and modulo to alternate the color of your rings.
-  if( ellipse %2==0){
+  if( i %2==0){
     
-  background(#ED1111);
+  fill(#ED1111);
   }
+else{
+
+fill(#FFFFFF);
+}
+
+}
 
 }
